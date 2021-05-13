@@ -1,0 +1,20 @@
+.maindiv{
+    background:linear-gradient(rgb(233, 137, 12),white,#075fff0f);
+}
+button{
+    background-color: green;
+}
+#statusbar
+{
+    background-color: rgb(30, 31, 70);
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+.game button{
+    background-color: gray;
+    height: 80px;
+    width: 80px;
+    margin: 1px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
